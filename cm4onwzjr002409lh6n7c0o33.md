@@ -141,7 +141,7 @@ The Process for Attack Simulation and Threat Analysis (PASTA) is a risk-centric 
 
 PASTA is based on seven distinct steps as shown in the below diagram:
 
-![](https://raw.githubusercontent.com/nebulaa/my-docs/refs/heads/main/DevSecOps%20Process%20and%20Guidelines/Design/threatmodel/PASTA.png?token=GHSAT0AAAAAACYO4MMLDJT2ZKDOUDKFT3XEZ256AHQ align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734210190851/008526b9-3294-4bde-a0bc-de535a553623.png align="center")
 
 ### Enumerate Attack Vectors and Identified Threats
 
@@ -149,7 +149,7 @@ Leveraging existing frameworks such as MITRE ATT&CK, CAPEC and CWE will provide 
 
 #### MITRE ATT&CK
 
-The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuously updated knowledge base for modeling, detecting, preventing and fighting cybersecurity threats based on cybercriminals’ known adversarial behaviors. It is populated mainly by publicly available threat intelligence and incident reporting, as well as by research on new techniques contributed by cybersecurity analysts and threat hunters. MITRE ATT&CK catalogs cybercriminal tactics, techniques and procedures (TTPs) through each phase of the cyberattack lifecycle—from an attacker's initial information gathering and planning behaviors, through to the ultimate execution of the attack which can be used to identify potential attack vectors in threat models. Link to the matrix of tactics and techniques used against Industrial Control Systems (ICS) can be found here: [https://attack.mitre.org/matrices/ics/](https://attack.mitre.org/matrices/ics/) 
+The MITRE ATT&CK framework (MITRE ATT&CK) is a universally accessible, continuously updated knowledge base for modeling, detecting, preventing and fighting cybersecurity threats based on cybercriminals’ known adversarial behaviors. It is populated mainly by publicly available threat intelligence and incident reporting, as well as by research on new techniques contributed by cybersecurity analysts and threat hunters. MITRE ATT&CK catalogs cybercriminal tactics, techniques and procedures (TTPs) through each phase of the cyberattack lifecycle—from an attacker's initial information gathering and planning behaviors, through to the ultimate execution of the attack which can be used to identify potential attack vectors in threat models. Link to the matrix of tactics and techniques used against Industrial Control Systems (ICS) can be found here: [https://attack.mitre.org/matrices/ics/](https://attack.mitre.org/matrices/ics/)
 
 #### Common Attack Pattern Enumeration and Classification (CAPEC)
 
