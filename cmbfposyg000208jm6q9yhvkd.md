@@ -8,13 +8,13 @@ tags: security, devsecops, application-security, cybersecurity-1
 
 ---
 
-### Introduction
+## Introduction
 
 Application security was supposed to be a safety net. Lately, it feels more like quicksand.
 
 Modern AppSec teams are swamped by an endless stream of alerts. The report found on [thehackernews.com](http://thehackernews.com) prompted me to think about this issue ([https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html](https://thehackernews.com/2025/05/new-research-reveals-95-of-appsec-fixes.html)). OX Security reports that 95–98% of these are non-actionable, with only 202 out of nearly 570,000 alerts per organization representing true, critical issues. Let that sink in: almost everything flagged isn’t actually worth doing anything about. It's no wonder security professionals are burning out — we’ve built systems that demand constant vigilance but rarely deliver clarity.
 
-### Lost in Translation: Security and Business Value
+## Lost in Translation: Security and Business Value
 
 Here's the uncomfortable truth: when security becomes a bottleneck, the business sees it as friction. Not value.
 
@@ -27,7 +27,7 @@ The consequences of alert fatigue are multifaceted:
 * **Erosion of Trust**: Developers may become skeptical of security tools that frequently flag non-issues, leading to friction between development and security teams.
     
 
-### What the Tools Miss
+## What the Tools Miss
 
 Automation helps. But it doesn’t solve everything. There are still massive blind spots:
 
@@ -39,7 +39,7 @@ Third-party dependencies and open-source libraries introduce supply chain risks 
 
 These blind spots emphasize the need for human judgment, threat modeling, and cross-functional collaboration to build a more complete and effective AppSec strategy.
 
-### Turning the Tide: Making AppSec Actually Work
+## Turning the Tide: Making AppSec Actually Work
 
 If AppSec is going to deliver real value — to the business, to engineering, and to security teams themselves — it might be time to rethink how we approach it. Here are some ways organizations can begin to shift from reactive noise to meaningful impact:
 
@@ -59,7 +59,7 @@ If AppSec is going to deliver real value — to the business, to engineering, an
     Used well, it can help inform patching decisions, improve alert tuning, and provide early warning signs of emerging risks. Consider mapping external threat trends to your own systems and software stack — even just quarterly — to guide where to focus.
     
 
-### This Is About More Than Security
+## This Is About More Than Security
 
 At its core, this isn’t just a tooling problem — it’s a focus problem.
 
