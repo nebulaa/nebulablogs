@@ -189,7 +189,7 @@ Attackers exploit the model’s natural language interface to override restricti
 
 ## Key Takeaways for Testing and Securing AI
 
-1. **Red-team your models regularly.** Treat AI systems like production applications—assume they will be attacked and build testing processes accordingly.
+1. **Red-team your models regularly.** Treat AI systems like production applications, assume they will be attacked and build testing processes accordingly.
     
 2. **Monitor for abnormal patterns.** Flag unusual input patterns, high query volumes, or anomalous responses in production.
     
